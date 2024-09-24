@@ -21,7 +21,7 @@
 > - Open Usb AutoRun Creator and select the file .exe to be flashed
 > - For the icon select the .ico file, downloaded before
 > - Click Create
-> - Rename the usb stick to "Data Disk"
+> - Rename the usb stick to "Data Disk" or if you want to change lable just change it from the variable 
 > - That's all
 > - Plug the usb in your victim's computer and enjoy =]
 
