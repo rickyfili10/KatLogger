@@ -32,6 +32,7 @@ The authors take NO responsibility and liability for how you use any of the tool
 ### USE IT AT YOUR OWN RISK.
 
  By: BlacKat team. ツ 
+ - @rickyfili10 and @Lif28
 
 
 
