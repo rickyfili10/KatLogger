@@ -26,6 +26,8 @@
 > - Plug the usb in your victim's computer and enjoy =]
 > - REMEMBER: After a tot unplug it and read it on your pc, for unhide the file on the usb stick just execute on cmd/powershell as admin "attrib -h *.* /s /d"
 
+# BY DOWNLOADING THIS MALWARE AND MAKING ANY USE OF IT, YOU AGREE THAT YOU AND YOU ALONE WILL ASSUME ANY AND ALL LIABILITY, WHETHER CRIMINAL OR NOT. UNDER NO CIRCUMSTANCES SHALL THE AUTHORS OF THE SOFTWARE BE LIABLE FOR ANY USE YOU MAKE OF IT.
+
 
 # DISCLAIMER
 ### KatLogger is for educational purposes only.
